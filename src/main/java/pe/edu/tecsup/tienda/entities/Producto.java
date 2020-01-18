@@ -1,5 +1,7 @@
 package pe.edu.tecsup.tienda.entities;
 
+//ESTE ES UNA CLASE PRODUCTO
+
 import java.util.Date;
 
 import javax.persistence.Entity;
